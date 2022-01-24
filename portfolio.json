@@ -1,0 +1,123 @@
+{
+    "certificates": [
+        {
+            "id": 1,
+            "name": "Alibaba Cloud",
+            "description": "Landing AI Developer Asia Forward",
+            "image": "https://i.ibb.co/2qhh710/e-Certificate-Alibaba-Cloud-Asia-Forward.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 2,
+            "name": "Alibaba Cloud",
+            "description": "Getting Started with Python",
+            "image": "https://i.ibb.co/7yV82bn/e-Ceritficate-Alibaba-Cloud-Getting-Started-with-python-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 3,
+            "name": "Alibaba Cloud",
+            "description": "Advanced Python Programming",
+            "image": "https://i.ibb.co/vhddvk2/e-Certificate-Alibaba-Cloud-Advanced-Python-Programming.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 4,
+            "name": "Alibaba Cloud",
+            "description": "Flask Framework",
+            "image": "https://i.ibb.co/0GXyCZT/e-Certificate-Alibaba-Cloud-Flask-Framework.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 5,
+            "name": "Kaggle",
+            "description": "Computer Vision",
+            "image": "https://i.ibb.co/mNc6MHt/Lovelyo-Yeremia-Mokalu-Computer-Vision.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 6,
+            "name": "Kaggle",
+            "description": "Intermediate Machine Learning",
+            "image": "https://i.ibb.co/CzLQc3z/Lovelyo-Yeremia-Mokalu-Intermediate-Machine-Learning.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 7,
+            "name": "Kaggle",
+            "description": "Intro To Machine Learning",
+            "image": "https://i.ibb.co/xmN5P2N/Lovelyo-Yeremia-Mokalu-Intro-to-Machine-Learning.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 8,
+            "name": "Amazon Web Services",
+            "description": "Data Analytics",
+            "image": "https://i.ibb.co/dGmhtn9/e-Certificate-AWS-Training-Data-Analytics-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 9,
+            "name": "Amazon Web Services",
+            "description": "Machine Learning Terminology And Process",
+            "image": "https://i.ibb.co/HP4BWXt/e-Certificate-AWS-Training-Machine-Learning-Terminology-and-Process-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 10,
+            "name": "Amazon Web Services",
+            "description": "ML Building Blocks Services And Terminology",
+            "image": "https://i.ibb.co/bmjyMw3/e-Certificate-AWS-Training-ML-Building-Blocks-Services-and-Terminology-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 11,
+            "name": "Google",
+            "description": "The Fundamentals of Digital Marketing",
+            "image": "https://i.ibb.co/C8kzGVh/e-Certificate-Google-Digital-Marketing-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 12,
+            "name": "Google Developer Student Clubs",
+            "description": "Recommendation System with Tensorflow",
+            "image": "https://i.ibb.co/0DYVJPj/e-Certificate-GDSC-UG-Recommendations-System-with-Tensorflow-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 13,
+            "name": "Rakamin Academy",
+            "description": "Data Science - Excellent Grade",
+            "image": "https://i.ibb.co/3rvB3nZ/e-Certificate-Data-Science-101-Excellent-grade-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 14,
+            "name": "Rakamin Academy",
+            "description": "Data Science 101",
+            "image": "https://i.ibb.co/jyK7LcQ/e-Certificate-Data-Science-Completion-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 15,
+            "name": "Haltev",
+            "description": "Digital Career",
+            "image": "https://i.ibb.co/tBFXJYD/e-Certificate-Digital-Carrer-Lovelyo-Yeremia-Mokalu-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 16,
+            "name": "Alterra",
+            "description": "Javascript 101",
+            "image": "https://i.ibb.co/rvVqXR9/e-Certificate-Javascript-101-Lovelyo-Yeremia-Mokalu-1.png",
+            "issued_date": 2021
+        },
+        {
+            "id": 17,
+            "name": "Kominfo Indonesia",
+            "description": "Literasi Digital",
+            "image": "https://i.ibb.co/ChbxfD4/e-Certificate-Kominfo-Literasi-Digital-1.png",
+            "issued_date": 2021
+        }
+    ]
+}
