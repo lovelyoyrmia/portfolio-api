@@ -1,8 +1,8 @@
 import requests
 import json
 
-res = requests.get("https://portfolio-vio.herokuapp.com/certificates/")
+res = requests.get("http://portfolio-vio.herokuapp.com/projects/")
 
-data = res.json()['certificates']
+data = res.json()['projects']
 
-print(data)
+print(len(data))
