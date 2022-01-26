@@ -125,8 +125,12 @@
       "id": 1,
       "project_name": "Image Processing",
       "category": "machine-learning",
-      "image_path": "https://i.ibb.co/Fw8h6K8/1.png",
+      "image_path": "https://i.ibb.co/12k7RRy/1-12.png",
       "image_list": [
+        "https://i.ibb.co/12k7RRy/1-12.png",
+        "https://i.ibb.co/27cYb0w/1-13.png",
+        "https://i.ibb.co/yBJjdRL/1-14.png",
+        "https://i.ibb.co/zhwvjkV/1-15.png",
         "https://i.ibb.co/Fw8h6K8/1.png",
         "https://i.ibb.co/d2tNLSQ/1-1.png",
         "https://i.ibb.co/KWF95rd/1-2.png",
@@ -138,7 +142,9 @@
         "https://i.ibb.co/CVp6BYt/1-8.png",
         "https://i.ibb.co/V2xDJ5v/1-9.png",
         "https://i.ibb.co/sgR8KSw/1-10.png",
-        "https://i.ibb.co/6sL3zj6/1-11.png"
+        "https://i.ibb.co/6sL3zj6/1-11.png",
+        "https://i.ibb.co/crwJ2gz/1-16.png",
+        "https://i.ibb.co/Sv9w3ty/1-17.png"
       ],
       "description": "This website will be able to process the image that you've uploaded such as contrast, brightness, blurring, and gray-scale. Also you can detect faces and smiles, and cartoonize your image.",
       "date": "2021",
