@@ -3,6 +3,7 @@ import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 from certificates import route
 from projects import project
+from about import about
 
 app = FastAPI()
 
@@ -16,6 +17,7 @@ app.add_middleware(
 
 app.include_router(route, prefix="/certificates", tags=["certificates"])
 app.include_router(project, prefix="/projects", tags=["projects"])
+app.include_router(about, prefix='/about', tags=['about'])
 
 if __name__ == "__main__":
     uvicorn.run("app:app", host="0.0.0.0", port=8000)
