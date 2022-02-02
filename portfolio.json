@@ -53,27 +53,35 @@
     "experience": [
       {
         "id": 1,
-        "date": "Nov, 2021 - Present",
-        "title": "Web Developer",
-        "company": "Independent",
-        "description": "Building web application based on machine learning such as linear regression, classification, computer vision and predictor.",
+        "date": "Feb, 2022 - Present",
+        "title": "Data Entry Intern",
+        "company": "Finku Company",
+        "description": "Helping ML engineer to label data.",
         "row": "row-1"
       },
       {
         "id": 2,
-        "date": "Sep, 2021 - Present",
-        "title": "A Volunteer Teacher",
-        "company": "Perintis School",
-        "description": "Giving An Education to  street kids who don't have money to school.",
+        "date": "Nov, 2021 - Present",
+        "title": "Web Developer",
+        "company": "Independent",
+        "description": "Building web application based on machine learning such as linear regression, classification, computer vision and predictor.",
         "row": "row-2"
       },
       {
         "id": 3,
+        "date": "Sep, 2021 - Present",
+        "title": "A Volunteer Teacher",
+        "company": "Perintis School",
+        "description": "Giving An Education to  street kids who don't have money to school.",
+        "row": "row-1"
+      },
+      {
+        "id": 4,
         "date": "June, 2021 - Present",
         "title": "Multimedia Team",
         "company": "GPIB Bethania",
         "description": "Handling Youtube live streaming for worshipping at church. Editing video and Designing logo.",
-        "row": "row-1"
+        "row": "row-2"
       }
     ],
     "education": [
