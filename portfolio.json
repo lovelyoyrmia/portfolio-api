@@ -56,32 +56,40 @@
         "date": "Feb, 2022 - Present",
         "title": "Data Entry Intern",
         "company": "Finku Company",
-        "description": "Helping ML engineer to label data.",
+        "description": "Helping Machine Learning engineer to label data. Arange and Validate a Fresh data",
         "row": "row-1"
       },
       {
         "id": 2,
-        "date": "Nov, 2021 - Present",
-        "title": "Web Developer",
-        "company": "Independent",
-        "description": "Building web application based on machine learning such as linear regression, classification, computer vision and predictor.",
+        "date": "Feb, 2022 - Present",
+        "title": "Machine Learning Path Student",
+        "company": "Bangkit Academy Led by Google, GoTo, and Traveloka",
+        "description": "",
         "row": "row-2"
       },
       {
         "id": 3,
-        "date": "Sep, 2021 - Present",
-        "title": "A Volunteer Teacher",
-        "company": "Perintis School",
-        "description": "Giving An Education to  street kids who don't have money to school.",
+        "date": "Nov, 2021 - Present",
+        "title": "Web Developer",
+        "company": "Self-Employed",
+        "description": "Building web application based on machine learning and computer vision",
         "row": "row-1"
       },
       {
         "id": 4,
+        "date": "Sep, 2021 - Present",
+        "title": "A Volunteer Teacher",
+        "company": "Perintis School",
+        "description": "Giving An Education to  street kids who don't have money to school.",
+        "row": "row-2"
+      },
+      {
+        "id": 5,
         "date": "June, 2021 - Present",
         "title": "Multimedia Team",
         "company": "GPIB Bethania",
         "description": "Handling Youtube live streaming for worshipping at church. Editing video and Designing logo.",
-        "row": "row-2"
+        "row": "row-1"
       }
     ],
     "education": [
