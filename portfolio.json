@@ -54,15 +54,15 @@
       {
         "id": 1,
         "date": "Feb, 2022 - Present",
-        "title": "Data Entry Intern",
-        "company": "Finku Company",
-        "description": "Helping Machine Learning engineer to label data. Arange and Validate a Fresh data",
+        "title": "Machine Learning Data Entry Intern",
+        "company": "Finku",
+        "description": "Helping Machine Learning engineer team to label, arange, and validate a Fresh data",
         "row": "row-1"
       },
       {
         "id": 2,
         "date": "Feb, 2022 - Present",
-        "title": "Machine Learning Path Student",
+        "title": "Machine Learning Student",
         "company": "Bangkit Academy Led by Google, GoTo, and Traveloka",
         "description": "",
         "row": "row-2"
