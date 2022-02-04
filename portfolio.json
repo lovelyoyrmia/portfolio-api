@@ -80,7 +80,7 @@
         "date": "Sep, 2021 - Present",
         "title": "A Volunteer Teacher",
         "company": "Perintis School",
-        "description": "Giving An Education to  street kids who don't have money to school.",
+        "description": "Giving An Education to street kids who don't have money to school.",
         "row": "row-2"
       },
       {
@@ -108,14 +108,6 @@
         "school_name": "Saint Anthony, Jakarta, Indonesia",
         "description": "Senior High School in Science",
         "row": "row-2"
-      },
-      {
-        "id": 3,
-        "date": "June, 2013 - March, 2016",
-        "student_title": "Middle High School",
-        "school_name": "SMP 20 Jakarta, Indonesia",
-        "description": "",
-        "row": "row-1"
       }
     ]
   },
@@ -182,72 +174,72 @@
     },
     {
       "id": 5,
-      "name": "Kaggle",
-      "description": "Computer Vision",
-      "image": "https://i.ibb.co/mNc6MHt/Lovelyo-Yeremia-Mokalu-Computer-Vision.png",
-      "issued_date": 2021
-    },
-    {
-      "id": 6,
-      "name": "Kaggle",
-      "description": "Intermediate Machine Learning",
-      "image": "https://i.ibb.co/CzLQc3z/Lovelyo-Yeremia-Mokalu-Intermediate-Machine-Learning.png",
-      "issued_date": 2021
-    },
-    {
-      "id": 7,
-      "name": "Kaggle",
-      "description": "Intro To Machine Learning",
-      "image": "https://i.ibb.co/xmN5P2N/Lovelyo-Yeremia-Mokalu-Intro-to-Machine-Learning.png",
-      "issued_date": 2021
-    },
-    {
-      "id": 8,
       "name": "Amazon Web Services",
       "description": "Data Analytics",
       "image": "https://i.ibb.co/dGmhtn9/e-Certificate-AWS-Training-Data-Analytics-1.png",
       "issued_date": 2021
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Amazon Web Services",
       "description": "Machine Learning Terminology And Process",
       "image": "https://i.ibb.co/HP4BWXt/e-Certificate-AWS-Training-Machine-Learning-Terminology-and-Process-1.png",
       "issued_date": 2021
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Amazon Web Services",
       "description": "ML Building Blocks Services And Terminology",
       "image": "https://i.ibb.co/bmjyMw3/e-Certificate-AWS-Training-ML-Building-Blocks-Services-and-Terminology-1.png",
       "issued_date": 2021
     },
     {
-      "id": 11,
+      "id": 8,
       "name": "Google",
       "description": "The Fundamentals of Digital Marketing",
       "image": "https://i.ibb.co/C8kzGVh/e-Certificate-Google-Digital-Marketing-1.png",
       "issued_date": 2021
     },
     {
-      "id": 12,
+      "id": 9,
       "name": "Google Developer Student Clubs",
       "description": "Recommendation System with Tensorflow",
       "image": "https://i.ibb.co/0DYVJPj/e-Certificate-GDSC-UG-Recommendations-System-with-Tensorflow-1.png",
       "issued_date": 2021
     },
     {
-      "id": 13,
+      "id": 10,
       "name": "Rakamin Academy",
       "description": "Data Science - Excellent Grade",
       "image": "https://i.ibb.co/3rvB3nZ/e-Certificate-Data-Science-101-Excellent-grade-1.png",
       "issued_date": 2021
     },
     {
-      "id": 14,
+      "id": 11,
       "name": "Rakamin Academy",
       "description": "Data Science 101",
       "image": "https://i.ibb.co/jyK7LcQ/e-Certificate-Data-Science-Completion-1.png",
+      "issued_date": 2021
+    },
+    {
+      "id": 12,
+      "name": "Kaggle",
+      "description": "Computer Vision",
+      "image": "https://i.ibb.co/mNc6MHt/Lovelyo-Yeremia-Mokalu-Computer-Vision.png",
+      "issued_date": 2021
+    },
+    {
+      "id": 13,
+      "name": "Kaggle",
+      "description": "Intermediate Machine Learning",
+      "image": "https://i.ibb.co/CzLQc3z/Lovelyo-Yeremia-Mokalu-Intermediate-Machine-Learning.png",
+      "issued_date": 2021
+    },
+    {
+      "id": 14,
+      "name": "Kaggle",
+      "description": "Intro To Machine Learning",
+      "image": "https://i.ibb.co/xmN5P2N/Lovelyo-Yeremia-Mokalu-Intro-to-Machine-Learning.png",
       "issued_date": 2021
     },
     {
