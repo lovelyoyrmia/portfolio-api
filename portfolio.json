@@ -53,22 +53,6 @@
     "experience": [
       {
         "id": 1,
-        "date": "Feb, 2022 - Present",
-        "title": "Machine Learning Data Entry Intern",
-        "company": "Finku",
-        "description": "Helping Machine Learning engineer team to label, arange, and validate a Fresh data",
-        "row": "row-1"
-      },
-      {
-        "id": 2,
-        "date": "Feb, 2022 - Present",
-        "title": "Machine Learning Student",
-        "company": "Bangkit Academy Led by Google, GoTo, and Traveloka",
-        "description": "",
-        "row": "row-2"
-      },
-      {
-        "id": 3,
         "date": "Nov, 2021 - Present",
         "title": "Web Developer",
         "company": "Self-Employed",
@@ -76,7 +60,7 @@
         "row": "row-1"
       },
       {
-        "id": 4,
+        "id": 2,
         "date": "Sep, 2021 - Present",
         "title": "A Volunteer Teacher",
         "company": "Perintis School",
@@ -84,7 +68,7 @@
         "row": "row-2"
       },
       {
-        "id": 5,
+        "id": 3,
         "date": "June, 2021 - Present",
         "title": "Multimedia Team",
         "company": "GPIB Bethania",
