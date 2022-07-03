@@ -116,7 +116,7 @@
     },
     {
       "id": 4,
-      "icon": "fa-brands fa-android",
+      "icon": "fa-android",
       "title": "Android Developer",
       "description": "Developing android application with Flutter and Firebase."
     },
