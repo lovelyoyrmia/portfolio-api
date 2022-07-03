@@ -116,12 +116,18 @@
     },
     {
       "id": 4,
+      "icon": "fa-android",
+      "title": "Android Developer",
+      "description": "Developing android application with Flutter and Firebase."
+    },
+    {
+      "id": 5,
       "icon": "fa-video",
       "title": "Video Editor",
       "description": "Editing Video with Adobe Premiere Pro and Wondershare Filmora."
     },
     {
-      "id": 5,
+      "id": 6,
       "icon": "fa-music",
       "title": "Producer",
       "description": "Producing music with different genres such as RnB, Pop, Orchestra, Hip-Hop, and Future Bass."
