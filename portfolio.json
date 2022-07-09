@@ -54,22 +54,38 @@
       {
         "id": 1,
         "date": "Nov, 2021 - Present",
-        "title": "Web Developer",
+        "title": "Software Developer",
         "company": "Self-Employed",
-        "description": "Building web application based on machine learning and computer vision",
+        "description": "Building Front-end Web Application using React Js, Javascript, HTML, and CSS. Building Services API for Web & Android Applications using Node Js, Flask Python and FastApi Python. Using database MongoDb, SQL and Firestore to serve user's data. Also, building Android apps by using Flutter, and serving authentication with Firebase.",
         "row": "row-1"
       },
       {
         "id": 2,
-        "date": "Sep, 2021 - Present",
+        "date": "Feb, 2022 - Present",
+        "title": "Machine Learning Trainee",
+        "company": "Bangkit 2022 Academy led by Google, Traveloka, Gojek & Tokopedia",
+        "description": "Understanding Basic Machine Learning Algorithms to Advanced. Building prediction models using Deep Learning in Tensorflow. Building a big project with a team called Foedtra, an Application that will help to predict Indonesian Food based on Image Classification Algorithms and Transfer Learning. Understanding real world problems, and how to solve real world problems.",
+        "row": "row-1"
+      },
+      {
+        "id": 3,
+        "date": "Feb, 2022 - Present",
+        "title": "Machine Learning Data Entry Internship",
+        "company": "Finku (Financial Start-up)",
+        "description": "Managing and labeling machine learning data using PPOCR Label for building a model. Helping Business Specialists team to pull data customers through Linkedin. Helping Customer Experience team to pull data from customers who get rewards from Finku.",
+        "row": "row-1"
+      },
+      {
+        "id": 4,
+        "date": "Sep, 2021 - Nov, 2021",
         "title": "A Volunteer Teacher",
         "company": "Perintis School",
         "description": "Giving An Education to street kids who don't have money to school.",
         "row": "row-2"
       },
       {
-        "id": 3,
-        "date": "June, 2021 - Present",
+        "id": 5,
+        "date": "June, 2021 - June, 2022",
         "title": "Multimedia Team",
         "company": "GPIB Bethania",
         "description": "Handling Youtube live streaming for worshipping at church. Editing video and Designing logo.",
