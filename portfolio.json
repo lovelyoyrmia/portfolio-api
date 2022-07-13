@@ -51,28 +51,29 @@
       }
     ],
     "experience": [
+      
       {
         "id": 1,
-        "date": "Nov, 2021 - Present",
-        "title": "Software Developer",
-        "company": "Self-Employed",
-        "description": "Building Front-end Web Application using React Js, Javascript, HTML, and CSS. Building Services API for Web & Android Applications using Node Js, Flask Python and FastApi Python. Using database MongoDb, SQL and Firestore to serve user's data. Also, building Android apps by using Flutter, and serving authentication with Firebase.",
+        "date": "Feb, 2022 - Present",
+        "title": "Machine Learning Trainee",
+        "company": "Bangkit 2022 Academy led by Google, Traveloka, Gojek & Tokopedia",
+        "description": "Had a good understanding of  Basic Machine Learning Algorithms to Advanced. Designed prediction models using Deep Learning (Image Classification, NLP, Time Series) in Tensorflow. Lead a team to build an Application that will predict Indonesian Food using Image Classification Algorithms and Transfer Learning.",
         "row": "row-1"
       },
       {
         "id": 2,
         "date": "Feb, 2022 - Present",
-        "title": "Machine Learning Trainee",
-        "company": "Bangkit 2022 Academy led by Google, Traveloka, Gojek & Tokopedia",
-        "description": "Understanding Basic Machine Learning Algorithms to Advanced. Building prediction models using Deep Learning in Tensorflow. Building a big project with a team called Foedtra, an Application that will help to predict Indonesian Food based on Image Classification Algorithms and Transfer Learning. Understanding real world problems, and how to solve real world problems.",
+        "title": "Machine Learning Data Entry Internship",
+        "company": "Finku (Financial Start-up)",
+        "description": "Managing and labeling data using PPOCRLabel. Automate labeled data using Python, and Google Sheet. Pulled data from customers through Linkedin and checked if customers have a Linkedin Account. Helped Customer Experience team to pull data from customers who get rewards from Finku.",
         "row": "row-2"
       },
       {
         "id": 3,
-        "date": "Feb, 2022 - Present",
-        "title": "Machine Learning Data Entry Internship",
-        "company": "Finku (Financial Start-up)",
-        "description": "Managing and labeling machine learning data using PPOCR Label for building a model. Helping Business Specialists team to pull data customers through Linkedin. Helping Customer Experience team to pull data from customers who get rewards from Finku.",
+        "date": "Sep, 2021 - Jul 2022",
+        "title": "Software Developer",
+        "company": "Self-Employed",
+        "description": "Designed Front-end Web Application using React Js, Javascript, HTML, and CSS. Created Services API  for Web & Android Applications using Node Js, Flask Python and FastApi. Served user’s data database MongoDb, SQL and Firestore. Built Android apps by using Flutter, Provider, and Firebase.",
         "row": "row-1"
       },
       {
