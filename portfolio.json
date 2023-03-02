@@ -51,46 +51,69 @@
       }
     ],
     "experience": [
-      
       {
         "id": 1,
-        "date": "Feb, 2022 - Present",
-        "title": "Machine Learning Trainee",
-        "company": "Bangkit 2022 Academy led by Google, Traveloka, Gojek & Tokopedia",
-        "description": "Had a good understanding of  Basic Machine Learning Algorithms to Advanced. Designed prediction models using Deep Learning (Image Classification, NLP, Time Series) in Tensorflow. Lead a team to build an Application that will predict Indonesian Food using Image Classification Algorithms and Transfer Learning.",
+        "date": "Feb, 2023 - Present",
+        "title": "Backend Developer",
+        "company": "Investo Medika Asia",
+        "description": "Work with team to develop APIs and website services using Django. Created some features that can be used by talasemia community, and merchants",
         "row": "row-1"
       },
       {
         "id": 2,
-        "date": "Feb, 2022 - Present",
+        "date": "Nov, 2022 - Present",
+        "title": "Core Team (Academic)",
+        "company": "Gunadarma I/O",
+        "description": "Become a mentor to share knowledge related to Machine Learning and Software Engineering. Work with a team to create a competitve programming event",
+        "row": "row-2"
+      },
+      {
+        "id": 3,
+        "date": "Nov, 2022 - Feb 2023",
+        "title": "Software Engineer Intern",
+        "company": "Feedloop",
+        "description": "Work with different teams to build POC/Prototype for client's needs. Created templates and logic flow for POC. Collaborated with and Mentored by Co-Founder to develop apps using Cloud Function, Javascript, and ReactJs.",
+        "row": "row-1"
+      },
+      {
+        "id": 4,
+        "date": "Feb, 2022 - Nov 2022",
         "title": "Machine Learning Data Entry Internship",
         "company": "Finku (Financial Start-up)",
         "description": "Managing and labeling data using PPOCRLabel. Automate labeled data using Python, and Google Sheet. Pulled data from customers through Linkedin and checked if customers have a Linkedin Account. Helped Customer Experience team to pull data from customers who get rewards from Finku.",
         "row": "row-2"
       },
       {
-        "id": 3,
-        "date": "Sep, 2021 - Jul 2022",
-        "title": "Software Developer",
-        "company": "Self-Employed",
-        "description": "Designed Front-end Web Application using React Js, Javascript, HTML, and CSS. Created Services API  for Web & Android Applications using Node Js, Flask Python and FastApi. Served user’s data database MongoDb, SQL and Firestore. Built Android apps by using Flutter, Provider, and Firebase.",
+        "id": 5,
+        "date": "Feb, 2022 - Jul 2022",
+        "title": "Machine Learning Trainee",
+        "company": "Bangkit 2022 Academy led by Google, Traveloka, Gojek & Tokopedia",
+        "description": "Had a good understanding of  Basic Machine Learning Algorithms to Advanced. Designed prediction models using Deep Learning (Image Classification, NLP, Time Series) in Tensorflow. Lead a team to build an Application that will predict Indonesian Food using Image Classification Algorithms and Transfer Learning.",
         "row": "row-1"
       },
       {
-        "id": 4,
+        "id": 6,
+        "date": "Sep, 2021 - Present",
+        "title": "Software Developer",
+        "company": "Self-Employed",
+        "description": "Developing APIs using Express Js, Django, Flask",
+        "row": "row-2"
+      },
+      {
+        "id": 7,
         "date": "Sep, 2021 - Nov, 2021",
         "title": "A Volunteer Teacher",
         "company": "Perintis School",
         "description": "Giving An Education to street kids who don't have money to school.",
-        "row": "row-2"
+        "row": "row-1"
       },
       {
-        "id": 5,
+        "id": 8,
         "date": "June, 2021 - June, 2022",
         "title": "Multimedia Team",
         "company": "GPIB Bethania",
         "description": "Handling Youtube live streaming for worshipping at church. Editing video and Designing logo.",
-        "row": "row-1"
+        "row": "row-2"
       }
     ],
     "education": [
